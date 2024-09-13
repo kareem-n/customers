@@ -1,0 +1,6 @@
+
+
+.navLink {
+    @apply relative overflow-hidden z-10 hover:text-white rounded-tl-xl rounded-br-xl hover:shadow-md text-lg
+}
+
